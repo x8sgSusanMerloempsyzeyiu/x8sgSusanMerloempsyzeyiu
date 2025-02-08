@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm x8sgSusanMerloempsyzeyiu
 
-<!--
-**x8sgSusanMerloempsyzeyiu/x8sgSusanMerloempsyzeyiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚴 🎰 🎾 Looking to collaborate on open source 🚴 🎰 🎾
 
-Here are some ideas to get you started:
+## About Me
+🏑 🎯 🌟 Improving my skills in UI/UX design 🏑 🎯 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥊 🎨 🎳 🎺 Addicted to algorithms 🥊 🎨 🎳 🎺
+
+### Fun Facts
+🚵 🎯 🎪 A designer in game development 🚵 🎯 🎪
+
+---
+🏑 🎨 🥋 🚵 🏏 Thanks for visiting my profile! 🎨 🎸 💻 🎷 🎬
